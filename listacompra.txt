@@ -3,5 +3,3 @@ Tomates
 Jamón
 Cerveza
 Manzanas
-Patatas fritas
-Aceite
